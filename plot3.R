@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Course Project 1: Plot 2
+# Exploratory Data Analysis Course Project 1: Plot 3
 
 # Read the data.
 source("read.R")
